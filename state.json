@@ -1,0 +1,50 @@
+{
+  "ccr_paranoid": {
+    "stock": "无库存",
+    "available": false,
+    "price": "NT$1,540",
+    "release": "2026/10/02",
+    "tags": "預購 / 新品 / 現貨 / 無庫存",
+    "checked_at": "2026-09-30 17:14:42"
+  },
+  "ccr_story": {
+    "stock": "无库存",
+    "available": false,
+    "price": "NT$1,840",
+    "release": "2026/10/02",
+    "tags": "預購 / 新品 / 現貨 / 無庫存",
+    "checked_at": "2026-09-30 17:14:43"
+  },
+  "ccr_amit2": {
+    "stock": "无库存",
+    "available": false,
+    "price": "NT$1,480",
+    "release": "2026/10/02",
+    "tags": "預購 / 新品 / 現貨 / 無庫存",
+    "checked_at": "2026-09-30 17:14:44"
+  },
+  "fangoods_paranoid": {
+    "stock": "库存 0",
+    "available": false,
+    "price": "NT$1540",
+    "release": "2026/10/02",
+    "shipping": "2~7天",
+    "checked_at": "2026-09-30 17:14:46"
+  },
+  "fangoods_story": {
+    "stock": "库存 0",
+    "available": false,
+    "price": "NT$1840",
+    "release": "2026/10/02",
+    "shipping": "2~7天",
+    "checked_at": "2026-09-30 17:14:47"
+  },
+  "fangoods_amit2": {
+    "stock": "库存 0",
+    "available": false,
+    "price": "NT$1480",
+    "release": "2026/10/02",
+    "shipping": "2~7天",
+    "checked_at": "2026-09-30 17:14:48"
+  }
+}
