@@ -1,0 +1,45 @@
+name: A-MEI Album Monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: amei-album-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check album stock
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Save latest stock state
+        run: |
+          if [ -f state.json ]; then
+            git config user.name "A-MEI Album Monitor"
+            git config user.email "actions@github.com"
+            git add state.json
+
+            if ! git diff --cached --quiet; then
+              git commit -m "Update album stock state"
+              git push
+            fi
+          fi
