@@ -3,48 +3,147 @@
     "stock": "无库存",
     "available": false,
     "price": "NT$1,540",
-    "release": "2026/10/02",
-    "tags": "預購 / 新品 / 現貨 / 無庫存",
-    "checked_at": "2026-09-30 17:14:42"
+    "note": "2026/10/02",
+    "checked_at": "2026-09-30 17:25:31"
   },
   "ccr_story": {
     "stock": "无库存",
     "available": false,
     "price": "NT$1,840",
-    "release": "2026/10/02",
-    "tags": "預購 / 新品 / 現貨 / 無庫存",
-    "checked_at": "2026-09-30 17:14:43"
+    "note": "2026/10/02",
+    "checked_at": "2026-09-30 17:25:32"
   },
   "ccr_amit2": {
     "stock": "无库存",
     "available": false,
     "price": "NT$1,480",
-    "release": "2026/10/02",
-    "tags": "預購 / 新品 / 現貨 / 無庫存",
-    "checked_at": "2026-09-30 17:14:44"
+    "note": "2026/10/02",
+    "checked_at": "2026-09-30 17:25:34"
   },
   "fangoods_paranoid": {
-    "stock": "库存 0",
+    "stock": "库存数量未识别",
     "available": false,
-    "price": "NT$1540",
-    "release": "2026/10/02",
-    "shipping": "2~7天",
-    "checked_at": "2026-09-30 17:14:46"
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:36"
   },
   "fangoods_story": {
-    "stock": "库存 0",
+    "stock": "库存数量未识别",
     "available": false,
-    "price": "NT$1840",
-    "release": "2026/10/02",
-    "shipping": "2~7天",
-    "checked_at": "2026-09-30 17:14:47"
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:38"
   },
   "fangoods_amit2": {
-    "stock": "库存 0",
+    "stock": "库存数量未识别",
     "available": false,
-    "price": "NT$1480",
-    "release": "2026/10/02",
-    "shipping": "2~7天",
-    "checked_at": "2026-09-30 17:14:48"
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:40"
+  },
+  "5music_paranoid": {
+    "stock": "目前无现货",
+    "available": false,
+    "price": "",
+    "note": "2026 10月2日",
+    "checked_at": "2026-09-30 17:25:42"
+  },
+  "5music_story": {
+    "stock": "目前无现货",
+    "available": false,
+    "price": "",
+    "note": "2026 10月2日",
+    "checked_at": "2026-09-30 17:25:44"
+  },
+  "5music_amit2": {
+    "stock": "目前无现货",
+    "available": false,
+    "price": "",
+    "note": "2026 10月2日",
+    "checked_at": "2026-09-30 17:25:46"
+  },
+  "rockmall_paranoid": {
+    "stock": "售完",
+    "available": false,
+    "price": "NT$1,540",
+    "note": "2026.10.2 (到貨後陸續出貨)",
+    "checked_at": "2026-09-30 17:25:47"
+  },
+  "rockmall_story": {
+    "stock": "售完",
+    "available": false,
+    "price": "NT$1,840",
+    "note": "2026.10.2 (到貨後陸續出貨)",
+    "checked_at": "2026-09-30 17:25:48"
+  },
+  "rockmall_amit2": {
+    "stock": "售完",
+    "available": false,
+    "price": "NT$1,480",
+    "note": "2026.10.2 (到貨後陸續出貨)",
+    "checked_at": "2026-09-30 17:25:50"
+  },
+  "eslite_paranoid": {
+    "stock": "状态待确认",
+    "available": false,
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:50"
+  },
+  "eslite_story": {
+    "stock": "状态待确认",
+    "available": false,
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:51"
+  },
+  "eslite_amit2": {
+    "stock": "状态待确认",
+    "available": false,
+    "price": "",
+    "note": "",
+    "checked_at": "2026-09-30 17:25:51"
+  },
+  "95_paranoid": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "偏執面 [神經白膠唱片]/a MEI (張惠妹)(2026-10-02)",
+    "checked_at": "2026-09-30 17:25:52"
+  },
+  "95_story": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "偷故事的人 [黑膠唱片]/a MEI (張惠妹)(2026-10-02)",
+    "checked_at": "2026-09-30 17:25:54"
+  },
+  "95_amit2": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "阿密特2 [視覺黑膠唱片]/阿密特 (A-mit, 張惠妹)(2026-10-02)",
+    "checked_at": "2026-09-30 17:25:55"
+  },
+  "shs_paranoid": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "偏執面 (神經白膠唱片) (第二批到貨,時間待確認)",
+    "checked_at": "2026-09-30 17:25:56"
+  },
+  "shs_story": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "偷故事的人 (第二批到貨,時間待確認)",
+    "checked_at": "2026-09-30 17:25:57"
+  },
+  "shs_amit2": {
+    "stock": "已上架，状态待确认",
+    "available": false,
+    "price": "",
+    "note": "阿密特2 (視覺黑膠唱片) (第二批到貨,時間待確認)",
+    "checked_at": "2026-09-30 17:25:58"
   }
 }
