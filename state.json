@@ -29,7 +29,7 @@
     "price": "NT$1540",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:53:59"
+    "checked_at": "2026-10-02 09:59:17"
   },
   "fangoods_story": {
     "stock": "库存 0",
@@ -37,7 +37,7 @@
     "price": "NT$1840",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:00"
+    "checked_at": "2026-10-02 09:59:18"
   },
   "fangoods_amit2": {
     "stock": "库存 0",
@@ -45,7 +45,7 @@
     "price": "NT$1480",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:01"
+    "checked_at": "2026-10-02 09:59:19"
   },
   "5music_paranoid": {
     "stock": "目前无现货",
@@ -53,7 +53,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:02"
+    "checked_at": "2026-10-02 09:59:21"
   },
   "5music_story": {
     "stock": "目前无现货",
@@ -61,7 +61,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:04"
+    "checked_at": "2026-10-02 09:59:23"
   },
   "5music_amit2": {
     "stock": "目前无现货",
@@ -69,7 +69,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:05"
+    "checked_at": "2026-10-02 09:59:24"
   },
   "rockmall_paranoid": {
     "stock": "售完",
@@ -77,7 +77,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:06"
+    "checked_at": "2026-10-02 09:59:25"
   },
   "rockmall_story": {
     "stock": "售完",
@@ -85,7 +85,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:07"
+    "checked_at": "2026-10-02 09:59:27"
   },
   "rockmall_amit2": {
     "stock": "售完",
@@ -93,7 +93,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:08"
+    "checked_at": "2026-10-02 09:59:28"
   },
   "eslite_paranoid": {
     "stock": "状态待确认",
@@ -146,7 +146,7 @@
     "price": "",
     "note": "偏執面 (神經白膠唱片) (第二批到貨,時間待確認)",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:13"
+    "checked_at": "2026-10-02 09:59:34"
   },
   "shs_story": {
     "stock": "已上架，库存待确认",
@@ -154,7 +154,7 @@
     "price": "",
     "note": "偷故事的人 (第二批到貨,時間待確認)",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:14"
+    "checked_at": "2026-10-02 09:59:35"
   },
   "shs_amit2": {
     "stock": "已上架，库存待确认",
@@ -162,7 +162,7 @@
     "price": "",
     "note": "阿密特2 (視覺黑膠唱片) (第二批到貨,時間待確認)",
     "valid": true,
-    "checked_at": "2026-10-02 06:54:15"
+    "checked_at": "2026-10-02 09:59:36"
   },
   "__email_test_sent__": true
 }
