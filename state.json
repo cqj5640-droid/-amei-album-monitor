@@ -5,7 +5,7 @@
     "price": "NT$1,540",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:31"
+    "checked_at": "2026-11-23 07:52:11"
   },
   "ccr_story": {
     "stock": "无库存",
@@ -13,7 +13,7 @@
     "price": "NT$1,840",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:33"
+    "checked_at": "2026-11-23 07:52:14"
   },
   "ccr_amit2": {
     "stock": "无库存",
@@ -21,7 +21,7 @@
     "price": "NT$1,480",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:35"
+    "checked_at": "2026-11-23 07:52:16"
   },
   "fangoods_paranoid": {
     "stock": "库存 0",
@@ -29,7 +29,7 @@
     "price": "NT$1540",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:36"
+    "checked_at": "2026-11-23 07:52:18"
   },
   "fangoods_story": {
     "stock": "库存 0",
@@ -37,7 +37,7 @@
     "price": "NT$1840",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:37"
+    "checked_at": "2026-11-23 07:52:19"
   },
   "fangoods_amit2": {
     "stock": "库存 0",
@@ -45,7 +45,7 @@
     "price": "NT$1480",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:38"
+    "checked_at": "2026-11-23 07:52:20"
   },
   "5music_paranoid": {
     "stock": "目前无现货",
@@ -53,7 +53,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:40"
+    "checked_at": "2026-11-23 07:52:22"
   },
   "5music_story": {
     "stock": "目前无现货",
@@ -61,7 +61,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:41"
+    "checked_at": "2026-11-23 07:52:23"
   },
   "5music_amit2": {
     "stock": "目前无现货",
@@ -69,7 +69,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:42"
+    "checked_at": "2026-11-23 07:52:25"
   },
   "rockmall_paranoid": {
     "stock": "售完",
@@ -77,7 +77,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:43"
+    "checked_at": "2026-11-23 07:52:26"
   },
   "rockmall_story": {
     "stock": "售完",
@@ -85,7 +85,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:44"
+    "checked_at": "2026-11-23 07:52:27"
   },
   "rockmall_amit2": {
     "stock": "售完",
@@ -93,7 +93,7 @@
     "price": "",
     "note": "",
     "valid": true,
-    "checked_at": "2026-11-23 02:41:46"
+    "checked_at": "2026-11-23 07:52:28"
   },
   "eslite_paranoid": {
     "stock": "状态待确认",
